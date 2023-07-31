@@ -1,0 +1,33 @@
+.container{
+position: absolute;
+display: flex;
+align-items: center;
+justify-content: space-between;
+flex-direction: column;
+background-image: url("../../img/set-of-pokemon-icons-vector.jpg");
+background-position: center;
+
+background-attachment: fixed;
+height: 100%;
+width: 100%;
+}
+
+.p{
+font-size: 5rem;
+font-family: 'Gill Sans', sans-serif;
+background-color: beige;
+border-radius: 2rem;
+width: 60rem;
+}
+
+.btn{
+background-image: url("../../img/—Pngtree—social\ media\ instagram\ color\ style_8167630.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-color: transparent;
+width: 170px;
+height: 160px;
+border: none;
+margin-top: 10px;
+
+}
